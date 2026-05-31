@@ -46,6 +46,14 @@ Visualization & BI: Tableau • Power BI • Looker Studio • Excel
 # 📈 Banking Customer Analytics Platform
 Built an end-to-end banking analytics solution using Python, PostgreSQL, SQL, machine learning, and Tableau to analyze customer profitability, financial risk exposure, and customer segmentation.
 
+# 🛍️ AI Product Discovery & Shopping Recommendation Engine
+Built an AI-powered product recommendation system using Python, NLP, Sentence Transformers, vector embeddings, Streamlit, and machine learning to deliver semantic product search and personalized product discovery across thousands of e-commerce products.
+
+# 🚀 SaaS Growth Analytics: Funnel Analysis, A/B Testing & Conversion Prediction
+Built an end-to-end growth analytics solution using Python, PostgreSQL, SQL, Tableau, statistical testing, and machine learning to analyze customer conversion behavior, optimize marketing funnels, evaluate campaign performance, and identify key drivers of customer acquisition and retention. 
+
+
+
 
 
   
